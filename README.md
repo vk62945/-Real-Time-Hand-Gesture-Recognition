@@ -12,7 +12,7 @@ It has three parts:
 3. Run `gesture_recognition.py` to test gestures in real time.  
 
 # Requirements
-- Python 3.10 for mac  
+- Python 3.11 for mac  
 - OpenCV  
 - MediaPipe  
 - TensorFlow  
